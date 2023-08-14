@@ -13,6 +13,6 @@ inline int Sum(int a, int b)
 
 int main()
 {
-	int b = Sum(5, 5);
-	cout << b << endl;bv
+	int a = Sum(3, 5);
+	cout << a << endl;
 }
