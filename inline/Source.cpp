@@ -13,6 +13,6 @@ inline int cum(int a, int b)
 
 int main()
 {
-	int a = cum(3, 5);
+	float a = cum(3, 5);
 	cout << a << endl;
 }
